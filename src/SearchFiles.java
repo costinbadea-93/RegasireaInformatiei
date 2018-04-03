@@ -51,7 +51,7 @@ public class SearchFiles {
       System.exit(0);
     }
 
-    String index = "C:\\Users\\cbadea\\Desktop\\TMProject\\ApacheLucenePhase2\\ApacheLucenePhase2\\index";
+    String index = "C:\\Users\\Costin Badea\\Desktop\\Regasirea Informatiei\\RegasireaInformatiei\\index";
     String field = "contents";
     String queries = null;
     int repeat = 0;

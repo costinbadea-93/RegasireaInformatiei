@@ -65,8 +65,8 @@ public class IndexFiles {
                  + " [-index INDEX_PATH] [-docs DOCS_PATH] [-update]\n\n"
                  + "This indexes the documents in DOCS_PATH, creating a Lucene index"
                  + "in INDEX_PATH that can be searched with SearchFiles";
-    String indexPath = "C:\\Users\\cbadea\\Desktop\\TMProject\\ApacheLucenePhase2\\ApacheLucenePhase2\\index";
-    String docsPath = "C:\\Users\\cbadea\\Desktop\\TMProject\\ApacheLucenePhase2\\ApacheLucenePhase2\\testData";
+    String indexPath = "C:\\Users\\Costin Badea\\Desktop\\Regasirea Informatiei\\RegasireaInformatiei\\index";
+    String docsPath = "C:\\Users\\Costin Badea\\Desktop\\Regasirea Informatiei\\RegasireaInformatiei\\testData";
     boolean create = true;
     for(int i=0;i<args.length;i++) {
       if ("-index".equals(args[i])) {
@@ -210,7 +210,7 @@ public class IndexFiles {
                 }
                 docW.add(pathFieldDOC);
                 docW.add(new LongPoint("modified", lastModified));
-                docW.add(new TextField("contents", docContent, Field.Store.YES));
+                docW.add(new TextField("contents", docContent.toString(), Field.Store.YES));
                 writer.addDocument(docW);
                 fis.close();
             } catch (Exception e) {

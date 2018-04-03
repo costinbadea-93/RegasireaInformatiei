@@ -34,7 +34,7 @@ import org.apache.lucene.analysis.Analyzer;
 
 public final class RomanianASCIIAnalyzer extends StopwordAnalyzerBase {
 
-    private static final String STOP_WORDS_PATH = "C:\\Users\\cbadea\\Desktop\\TMProject\\ApacheLucenePhase2\\ApacheLucenePhase2\\stopwords-ro.txt";
+    private static final String STOP_WORDS_PATH = "C:\\Users\\Costin Badea\\Desktop\\Regasirea Informatiei\\RegasireaInformatiei\\stopwords-ro.txt";
     private final CharArraySet stemExclusionSet;
 
     public final static String DEFAULT_STOPWORD_FILE = "stopwords.txt";
