@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dbe148d-98e3-40d3-9f99-de0f3f1be9b6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LuceneSearchHighlighterExample.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/analyzers_common.xml" afterPath="$PROJECT_DIR$/.idea/libraries/analyzers_common.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/index/_10.cfe" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index/_10.cfs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index/_10.si" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index/segments_p" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ApacheLucenePhase2/AclassForTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/ApacheLucenePhase2/IndexFiles.class" afterPath="$PROJECT_DIR$/out/production/ApacheLucenePhase2/IndexFiles.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/ApacheLucenePhase2/RomanianASCIIAnalyzer$DefaultSetHolder.class" afterPath="$PROJECT_DIR$/out/production/ApacheLucenePhase2/RomanianASCIIAnalyzer$DefaultSetHolder.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/ApacheLucenePhase2/RomanianASCIIAnalyzer.class" afterPath="$PROJECT_DIR$/out/production/ApacheLucenePhase2/RomanianASCIIAnalyzer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/ApacheLucenePhase2/SearchFiles.class" afterPath="$PROJECT_DIR$/out/production/ApacheLucenePhase2/SearchFiles.class" />
-      <change beforePath="$PROJECT_DIR$/src/IndexFiles.java" afterPath="$PROJECT_DIR$/src/IndexFiles.java" />
-      <change beforePath="$PROJECT_DIR$/src/RomanianASCIIAnalyzer.java" afterPath="$PROJECT_DIR$/src/RomanianASCIIAnalyzer.java" />
-      <change beforePath="$PROJECT_DIR$/src/SearchFiles.java" afterPath="$PROJECT_DIR$/src/SearchFiles.java" />
-      <change beforePath="$PROJECT_DIR$/stopwords-ro.txt" afterPath="$PROJECT_DIR$/stopwords-ro.txt" />
-      <change beforePath="$PROJECT_DIR$/testData/File1.txt" afterPath="" />
-    </list>
+    <list default="true" id="9dbe148d-98e3-40d3-9f99-de0f3f1be9b6" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IndexFiles.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="IndexFiles.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/IndexFiles.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="200" column="39" lean-forward="true" selection-start-line="200" selection-start-column="39" selection-end-line="200" selection-end-column="39" />
+            <state relative-caret-position="42">
+              <caret line="200" column="39" lean-forward="false" selection-start-line="200" selection-start-column="39" selection-end-line="200" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LuceneSearchHighlighterExample.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LuceneSearchHighlighterExample.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LuceneSearchHighlighterExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="223">
-              <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+              <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -189,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LuceneSearchHighlighterExample">
+  <component name="RunManager" selected="Application.IndexFiles">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -709,16 +691,15 @@
       <workItem from="1522739523405" duration="2785000" />
       <workItem from="1522768414953" duration="23000" />
       <workItem from="1522769880890" duration="815000" />
-      <workItem from="1522781371814" duration="2671000" />
+      <workItem from="1522781371814" duration="3023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36422000" />
+    <option name="totallyTimeSpent" value="36774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -733,7 +714,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17569546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17569546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -742,7 +723,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5055118" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5055118" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1093,20 +1074,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IndexFiles.java">
+    <entry file="file://$PROJECT_DIR$/src/LuceneSearchHighlighterExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="200" column="39" lean-forward="true" selection-start-line="200" selection-start-column="39" selection-end-line="200" selection-end-column="39" />
+        <state relative-caret-position="223">
+          <caret line="96" column="0" lean-forward="false" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LuceneSearchHighlighterExample.java">
+    <entry file="file://$PROJECT_DIR$/src/IndexFiles.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        <state relative-caret-position="42">
+          <caret line="200" column="39" lean-forward="false" selection-start-line="200" selection-start-column="39" selection-end-line="200" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
